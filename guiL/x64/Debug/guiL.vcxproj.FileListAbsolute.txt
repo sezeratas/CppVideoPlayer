@@ -1,0 +1,8 @@
+C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\guiL.vcxproj.AssemblyReference.cache
+C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\guiL.vcxproj.ResolveComReference.cache
+C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\guiL.MyForm.resources
+C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\guiL.vcxproj.GenerateResource.cache
+C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\guiL.vcxproj.CopyComplete
+C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\guiL.exe
+C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\AxInterop.WMPLib.1.0.dll
+C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\Interop.WMPLib.1.0.dll
