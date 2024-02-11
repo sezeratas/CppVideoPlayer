@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3010,5): warning MSB3305: Processing COM reference "WMPLib.1.0" from path "C:\Windows\system32\wmp.dll". Type library importer encountered a property getter 'sessionPlaylistCount' on type 'WMPLib.IWMPNowPlayingHelperDispatch' without a valid return type.  The importer will attempt to import this property as a method instead.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3010,5): warning MSB3305: Processing COM reference "WMPLib.1.0" from path "C:\Windows\system32\wmp.dll". At least one of the arguments for 'IWMPGraphEventHandler.NotifyAcquireCredentials' cannot be marshaled by the runtime marshaler.  Such arguments will therefore be passed as a pointer and may require unsafe code to manipulate.
+  pch.cpp
+  AssemblyInfo.cpp
+  guiL.cpp
+  MyForm.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  guiL.vcxproj -> C:\Users\sezer\Desktop\Winform_WinMedPlayer\guiL\x64\Debug\guiL.exe
